@@ -11,5 +11,3 @@ def dictionary
     "and" => "&"
   }
 end
-
-
